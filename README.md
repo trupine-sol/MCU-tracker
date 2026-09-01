@@ -1,2 +1,2 @@
-# marvel-tracker
-Marvel Binge-Watching Guide
+# MCU-tracker
+MCU Binge-Watching Guide
